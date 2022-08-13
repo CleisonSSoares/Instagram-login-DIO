@@ -4,5 +4,3 @@ Interface de login funcional desenvolvida seguindo os passos do curso da DIO do 
 ## Links utilizados : 
 * [Plataforma DIO](https://web.dio.me/home) <p>
 * [Repositório referência](https://github.com/SpruceGabriela/instagram-dio)
-
-<img src = "imagetest.png">
