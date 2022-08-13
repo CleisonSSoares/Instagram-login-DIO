@@ -6,4 +6,3 @@ Interface de login funcional desenvolvida seguindo os passos do curso da DIO do 
 * [Repositório referência](https://github.com/SpruceGabriela/instagram-dio)
 
 
-
